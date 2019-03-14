@@ -1,0 +1,7 @@
+C:\Users\shala\source\repos\Test\Lesson\bin\Debug\Lesson.exe.config
+C:\Users\shala\source\repos\Test\Lesson\bin\Debug\Lesson.exe
+C:\Users\shala\source\repos\Test\Lesson\bin\Debug\Lesson.pdb
+C:\Users\shala\source\repos\Test\Lesson\obj\Debug\Lesson.csprojAssemblyReference.cache
+C:\Users\shala\source\repos\Test\Lesson\obj\Debug\Lesson.csproj.CoreCompileInputs.cache
+C:\Users\shala\source\repos\Test\Lesson\obj\Debug\Lesson.exe
+C:\Users\shala\source\repos\Test\Lesson\obj\Debug\Lesson.pdb

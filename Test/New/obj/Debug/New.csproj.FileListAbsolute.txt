@@ -1,0 +1,14 @@
+C:\Users\shala\source\repos\Test\New\bin\Debug\New.exe.config
+C:\Users\shala\source\repos\Test\New\bin\Debug\New.exe
+C:\Users\shala\source\repos\Test\New\bin\Debug\New.pdb
+C:\Users\shala\source\repos\Test\New\obj\Debug\New.csprojAssemblyReference.cache
+C:\Users\shala\source\repos\Test\New\obj\Debug\New.csproj.CoreCompileInputs.cache
+C:\Users\shala\source\repos\Test\New\obj\Debug\New.exe
+C:\Users\shala\source\repos\Test\New\obj\Debug\New.pdb
+D:\C#\ITCloud_Projects\Test\New\bin\Debug\New.exe.config
+D:\C#\ITCloud_Projects\Test\New\bin\Debug\New.exe
+D:\C#\ITCloud_Projects\Test\New\bin\Debug\New.pdb
+D:\C#\ITCloud_Projects\Test\New\obj\Debug\New.csprojAssemblyReference.cache
+D:\C#\ITCloud_Projects\Test\New\obj\Debug\New.csproj.CoreCompileInputs.cache
+D:\C#\ITCloud_Projects\Test\New\obj\Debug\New.exe
+D:\C#\ITCloud_Projects\Test\New\obj\Debug\New.pdb
