@@ -1,0 +1,7 @@
+C:\C# projects\ITCloudAcademy\ForThoseWhoAreBored\ASCII\bin\Debug\ASCII.exe.config
+C:\C# projects\ITCloudAcademy\ForThoseWhoAreBored\ASCII\bin\Debug\ASCII.exe
+C:\C# projects\ITCloudAcademy\ForThoseWhoAreBored\ASCII\bin\Debug\ASCII.pdb
+C:\C# projects\ITCloudAcademy\ForThoseWhoAreBored\ASCII\obj\Debug\ASCII.csprojAssemblyReference.cache
+C:\C# projects\ITCloudAcademy\ForThoseWhoAreBored\ASCII\obj\Debug\ASCII.csproj.CoreCompileInputs.cache
+C:\C# projects\ITCloudAcademy\ForThoseWhoAreBored\ASCII\obj\Debug\ASCII.exe
+C:\C# projects\ITCloudAcademy\ForThoseWhoAreBored\ASCII\obj\Debug\ASCII.pdb

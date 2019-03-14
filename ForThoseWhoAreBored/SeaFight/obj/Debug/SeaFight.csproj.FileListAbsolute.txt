@@ -1,0 +1,14 @@
+C:\C# projects\ITCloudAcademy\ForThoseWhoAreBored\SeaFight\bin\Debug\SeaFight.exe.config
+C:\C# projects\ITCloudAcademy\ForThoseWhoAreBored\SeaFight\bin\Debug\SeaFight.exe
+C:\C# projects\ITCloudAcademy\ForThoseWhoAreBored\SeaFight\bin\Debug\SeaFight.pdb
+C:\C# projects\ITCloudAcademy\ForThoseWhoAreBored\SeaFight\obj\Debug\SeaFight.csprojAssemblyReference.cache
+C:\C# projects\ITCloudAcademy\ForThoseWhoAreBored\SeaFight\obj\Debug\SeaFight.csproj.CoreCompileInputs.cache
+C:\C# projects\ITCloudAcademy\ForThoseWhoAreBored\SeaFight\obj\Debug\SeaFight.exe
+C:\C# projects\ITCloudAcademy\ForThoseWhoAreBored\SeaFight\obj\Debug\SeaFight.pdb
+D:\C#\ForThoseWhoAreBored\SeaFight\bin\Debug\SeaFight.exe.config
+D:\C#\ForThoseWhoAreBored\SeaFight\bin\Debug\SeaFight.exe
+D:\C#\ForThoseWhoAreBored\SeaFight\bin\Debug\SeaFight.pdb
+D:\C#\ForThoseWhoAreBored\SeaFight\obj\Debug\SeaFight.csprojAssemblyReference.cache
+D:\C#\ForThoseWhoAreBored\SeaFight\obj\Debug\SeaFight.csproj.CoreCompileInputs.cache
+D:\C#\ForThoseWhoAreBored\SeaFight\obj\Debug\SeaFight.exe
+D:\C#\ForThoseWhoAreBored\SeaFight\obj\Debug\SeaFight.pdb
