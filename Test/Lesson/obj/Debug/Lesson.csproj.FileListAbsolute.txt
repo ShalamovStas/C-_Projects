@@ -5,3 +5,10 @@ C:\Users\shala\source\repos\Test\Lesson\obj\Debug\Lesson.csprojAssemblyReference
 C:\Users\shala\source\repos\Test\Lesson\obj\Debug\Lesson.csproj.CoreCompileInputs.cache
 C:\Users\shala\source\repos\Test\Lesson\obj\Debug\Lesson.exe
 C:\Users\shala\source\repos\Test\Lesson\obj\Debug\Lesson.pdb
+D:\C#\ITCloud_Projects\Test\Lesson\bin\Debug\Lesson.exe.config
+D:\C#\ITCloud_Projects\Test\Lesson\bin\Debug\Lesson.exe
+D:\C#\ITCloud_Projects\Test\Lesson\bin\Debug\Lesson.pdb
+D:\C#\ITCloud_Projects\Test\Lesson\obj\Debug\Lesson.csprojAssemblyReference.cache
+D:\C#\ITCloud_Projects\Test\Lesson\obj\Debug\Lesson.csproj.CoreCompileInputs.cache
+D:\C#\ITCloud_Projects\Test\Lesson\obj\Debug\Lesson.exe
+D:\C#\ITCloud_Projects\Test\Lesson\obj\Debug\Lesson.pdb
